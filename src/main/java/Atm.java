@@ -12,5 +12,6 @@ public class Atm {
         //version8
         System.out.println("deneme branchi kodlarini yazdi");
         //version dnm
+        //localde degisiklik yaptim
     }
 }
