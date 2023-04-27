@@ -13,5 +13,6 @@ public class Atm {
         System.out.println("deneme branchi kodlarini yazdi");
         //version dnm
         //localde degisiklik yaptim
+        //remote degisiklik yaptim
     }
 }
